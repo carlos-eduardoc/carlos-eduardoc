@@ -44,7 +44,7 @@ class Carlos:
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A0033,100:7B2FF7&height=120&section=header&text=TECH%20STACK&fontColor=FFFFFF&fontSize=38&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=C9A9F7&background=00000000&center=true&vCenter=true&width=550&repeat=true&lines=Python+%F0%9F%90%8D;Linux+%F0%9F%90%A7;Git+%2B+GitHub;Bash+Scripting;Redes+%26+Wireshark;Pentest+%28em+treino%29;FastAPI+%28pr%C3%B3xima+parada%29)
+![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=C9A9F7&background=00000000&center=true&vCenter=true&width=550&repeat=true&lines=Python+%F0%9F%90%8D;Linux+%F0%9F%90%A7;Git+%2B+GitHub;Scripting;Redes+%26k;Pentest+%28em+treino%29;FastAPI+%28pr%C3%B3xima+parada%29)
 
 <br>
 
