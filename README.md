@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3B0A66,100:7B2FF7&height=90&section=header" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B980F5&background=00000000&center=true&vCenter=true&width=600&lines=root%40carlos-eduardoc%3A~%23+whoami;Python+Developer+%7C+Linux+User;Sempre+quebrando+algo+pra+aprender+como+conserta)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B980F5&background=00000000&center=true&vCenter=true&width=600&lines=root%40carlos-eduardoc%3A~%23+whoami;Python+Developer+%7C+Linux+User)
 
 </div>
 
@@ -14,9 +14,8 @@
 class Carlos:
     role      = "Python Developer"
     focus     = ["Python", "Linux", "Cybersecurity"]
-    interest  = ["FastAPI", "Pentest", "Redes"]
-    os        = "Linux # obviously"
-    status    = "learning by breaking things"
+    interest  = ["Django", "Pentest", "Redes"]
+    os        = "Linux
 ```
 
 <br>
@@ -32,8 +31,7 @@ class Carlos:
 ## `> interests.log`
 
 ```
-[*] Python      — scripts, automação e lógica que resolve problemas reais
-[*] POO         — modelando o mundo com código limpo e estruturado
+[*] Python      — scripts, automação e criar ferramentas para ajudar na área de cybersecurity
 [*] Linux       — terminal acima de tudo, sempre
 [*] Redes       — entender como os dados se movem antes de tentar quebrá-los
 [*] Pentest     — encontrar a falha antes que alguém mal-intencionado encontre
