@@ -17,7 +17,7 @@ Programo há cerca de 1 ano, mas depois de muitos altos e baixos, recomecei do z
 📫 **Contato:**
 - LinkedIn: [linkedin.com/in/carloseduardo-dev](https://www.linkedin.com/in/carloseduardo-dev/)
 - Email: unistudios561@gmail.com
-- Portfólio: em atualização
+- Portfólio: https://portifolio-eight-sage.vercel.app/
 
 <br>
 
