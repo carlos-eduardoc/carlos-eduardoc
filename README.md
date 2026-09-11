@@ -39,7 +39,7 @@ class Carlos:
 
 ---
 
-## `> interests.log`
+## `> interests/objectives.log`
 
 ```
 [*] Python      — scripts, automação e criar ferramentas para ajudar na área de cybersecurity
